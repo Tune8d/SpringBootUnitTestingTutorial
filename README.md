@@ -1,3 +1,6 @@
+[Below is a cloned explanation of a project.]
+Source: https://youtu.be/Geq60OVyBPg?si=A-aKskXxg3ouJVUg
+
 [![CICD](https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml)
 
 https://amigoscode.com/p/full-stack-spring-boot-react
